@@ -1,31 +1,31 @@
 ---
-title: Interfaccia utente web di Adobe Campaign
-description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente web di Adobe Campaign.
+title: Interfaccia utente di Adobe Campaign Web
+description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente di Adobe Campaign Web.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 44%
+ht-degree: 99%
 
 ---
 
-# Interfaccia utente web di Adobe Campaign
+# Interfaccia utente di Adobe Campaign Web
 
-Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente web di Adobe Campaign.
+Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente di Adobe Campaign Web.
 
 Nuovi video verranno aggiunti regolarmente.
 
 >[!INFO]
 > 
-> Hai delle domande? Vuoi condividere la tua esperienza o scambiare idee con altri utenti? O forse vuoi inviare al team Adobe un feedback sui contenuti di apprendimento? Partecipa alla conversazione in **[Thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)**!
+> Hai delle domande? Vuoi condividere la tua esperienza o scambiare idee con altri utenti? O forse vuoi inviare al team Adobe un feedback sui contenuti di apprendimento? Partecipa alla conversazione nel **[thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)**!
 >
 >
 > Questi tutorial non sono quelli che stai cercando?
-> Consulta la sezione
+> Consulta
 > 
-> * [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) per informazioni sulla console Campaign
+> * [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it) per informazioni sulla console di Campaign
 > * [Documentazione di Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) per ulteriori informazioni sull’interfaccia utente di Campaign Web.
 
 <div id="recs-overview-body-1"></div>
