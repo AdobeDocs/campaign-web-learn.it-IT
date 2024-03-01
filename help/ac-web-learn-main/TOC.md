@@ -5,10 +5,10 @@ user-guide-title: Interfaccia utente di Adobe Campaign Web
 user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche principali dell’interfaccia utente di Adobe Campaign Web.
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
-source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 83%
+source-wordcount: '117'
+ht-degree: 68%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 83%
    + [Creare contenuti e-mail da zero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Creare un’e-mail caricando HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Creare e migliorare i contenuti delle e-mail con l’Assistente ai contenuti](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
+   + [Anteprima e verifica di una consegna e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
 + Profili e pubblico {#profiles-and-audiences}
    + [Esplora i profili](/help/profiles-and-audiences/explore-profiles.md)
    + [Gestire e creare tipi di pubblico](/help/profiles-and-audiences/manage-and-build-audiences.md)
@@ -30,4 +31,6 @@ ht-degree: 83%
 + Flussi di lavoro {#workflows}
    + [Creare un flusso di lavoro di targeting](/help/workflows/create-a-targeting-workflow.md)
 + [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it)
++ [Experience League registrazioni live]{#exl-live-recordings}
+   + [La nuova interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
 
