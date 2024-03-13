@@ -6,9 +6,9 @@ user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche 
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
 source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 64%
    + [Creare contenuti e-mail da zero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Creare un’e-mail caricando HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Creare e migliorare i contenuti delle e-mail con l’Assistente ai contenuti](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Anteprima e verifica di una consegna e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [Anteprima e bozza di una consegna e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
 + Profili e pubblico {#profiles-and-audiences}
    + [Esplora i profili](/help/profiles-and-audiences/explore-profiles.md)
    + [Gestire e creare tipi di pubblico](/help/profiles-and-audiences/manage-and-build-audiences.md)
-   + [Creare un pubblico con Experienci Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
+   + [Creare un pubblico con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flussi di lavoro {#workflows}
    + [Creare un flusso di lavoro di targeting](/help/workflows/create-a-targeting-workflow.md)
-+ Experience League registrazioni live {#exl-live-recordings}
-   + [La nuova interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ Registrazioni live di Experience League {#exl-live-recordings}
+   + [Nuova interfaccia utente d’avanguardia di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=it){target="_blank"}
 + [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"}
 
