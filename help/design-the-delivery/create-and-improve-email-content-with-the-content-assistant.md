@@ -1,6 +1,6 @@
 ---
 title: Creare e migliorare i contenuti delle e-mail con l’Assistente ai contenuti
-description: Scopri come utilizzare l’assistente ai contenuti con generazione basata sull’intelligenza artificiale per creare e migliorare il contenuto delle e-mail, ottimizzando le consegne e-mail per il tuo pubblico in modo da renderle più efficaci.
+description: Scopri come utilizzare l’assistente generativo per contenuti basato sull’intelligenza artificiale per creare e migliorare il contenuto delle e-mail.
 feature: Email Design
 role: User
 level: Beginner
@@ -11,17 +11,17 @@ jira: KT-14454
 hidefromtoc: true
 hide: true
 badgeAlpha: label="Alpha" type="informative" before-title="true"
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
+source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 57%
 
 ---
 
-
 # Creare e migliorare i contenuti delle e-mail con l’Assistente ai contenuti
 
-Scopri come utilizzare l’assistente ai contenuti con generazione basata sull’intelligenza artificiale per creare e migliorare il contenuto delle e-mail, ottimizzando le consegne e-mail per il tuo pubblico in modo da renderle più efficaci.
+Scopri come utilizzare l’assistente generativo per contenuti basato sull’intelligenza artificiale per creare e migliorare il contenuto delle e-mail.
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ Scopri come utilizzare l’assistente ai contenuti con generazione basata sull�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html?lang=it).
+Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
