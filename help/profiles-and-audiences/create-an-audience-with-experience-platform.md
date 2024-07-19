@@ -1,5 +1,5 @@
 ---
-title: Creare un pubblico con Experienci Platform
+title: Creare un pubblico con Experience Platform
 description: Scopri come creare una destinazione per mappare un pubblico di Experienci Platform su Adobe Campaign.
 feature: Audiences
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 441
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14577
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 828c4964-1b47-46c2-a8be-2cc40c01ef2d
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 28%
 
 ---
 
-
-# Creare un pubblico con Experienci Platform
+# Creare un pubblico con Experience Platform
 
 Scopri come creare una destinazione per utilizzare un pubblico di Experienci Platform in Adobe Campaign.
 
