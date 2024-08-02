@@ -5,10 +5,10 @@ user-guide-title: Interfaccia utente di Adobe Campaign Web
 user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche principali dell’interfaccia utente di Adobe Campaign Web.
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
-source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
+source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [Tutorial sull’interfaccia utente di Adobe Campaign Web](/help/ac-web-learn-main/overview.md)
 + Introduzione {#getting-started}
    + [Scopri l’interfaccia utente di Campaign Web](/help/get-started/explore-the-web-ui.md)
+   + [Introduzione ad Adobe Campaign v8 dopo la migrazione da Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
 + Messaggi e consegne {#messages-and-deliveries}
    + [Creare una consegna e-mail](/help/deliveries/create-an-email-delivery.md)
    + [Creare contenuti e-mail da zero](/help/design-the-delivery/create-email-content-from-scratch.md)
