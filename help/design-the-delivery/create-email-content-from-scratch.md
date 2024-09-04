@@ -9,10 +9,10 @@ duration: 624
 last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
-source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
+source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 70%
 
 ---
 
@@ -21,5 +21,9 @@ ht-degree: 100%
 Scopri come navigare in E-mail Designer. Scopri come strutturare e progettare un’e-mail da zero, come personalizzarla e testarla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+
+>[!NOTE]
+>
+>L’accesso al menu di Assets è limitato agli utenti con una licenza Adobe Essentials attiva. Se non si dispone di questa licenza, il menu Assets non sarà disponibile.
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=it).
