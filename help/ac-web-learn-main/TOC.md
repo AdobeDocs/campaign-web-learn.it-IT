@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 88%
    + [Creare e migliorare i contenuti delle e-mail con l’Assistente ai contenuti](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Creare contenuti con l’Assistente IA in Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Anteprima e bozza di una consegna e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Creare una consegna Direct mail](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [Creare una consegna direct mail](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profili e pubblico {#profiles-and-audiences}
    + [Esplora i profili](/help/profiles-and-audiences/explore-profiles.md)
    + [Gestire e creare tipi di pubblico](/help/profiles-and-audiences/manage-and-build-audiences.md)
