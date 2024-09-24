@@ -10,14 +10,16 @@ last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
 hidefromtoc: false
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
-source-git-commit: 1b71a1c67906d17b547c1d6089affafb272b9257
+source-git-commit: e3b149963f2fd306669facbc6f90200113ebf169
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 50%
 
 ---
 
 # Creare una consegna direct mail
+
+La direct mailing è un canale offline che consente di produrre file per consegnare in massa lettere personalizzate ai clienti come cartoline, volantini o cataloghi. Durante la creazione di una consegna direct mailing, Adobe Campaign genera automaticamente un file di estrazione contenente tutti i profili target e i dati selezionati, come gli indirizzi postali e gli attributi del profilo.
 
 Scopri come creare una consegna direct mail nell’interfaccia utente web di Adobe Campaign v8.
 
