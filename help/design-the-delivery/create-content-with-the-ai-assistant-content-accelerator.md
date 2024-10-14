@@ -11,9 +11,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Scopri come utilizzare l’Assistente IA in Campaign: Content Accelerator per ge
 
 ## Risorse aggiuntive
 
-* Experience League LIVE: [IA Bash - Sblocco della potenza dell&#39;Assistente di intelligenza artificiale nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente all’intelligenza artificiale nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

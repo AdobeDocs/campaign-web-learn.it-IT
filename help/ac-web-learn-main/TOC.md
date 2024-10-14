@@ -6,9 +6,9 @@ user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche 
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 + [Tutorial sull’interfaccia utente di Adobe Campaign Web](/help/ac-web-learn-main/overview.md)
 + Introduzione {#getting-started}
-   + [Guida all&#39;adozione di Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Guida all’adozione di Adobe Campaign v8](https://experienceleague.adobe.com/it/docs/campaign-web/acs-to-ac/home)
    + [Scopri l’interfaccia utente di Campaign Web](/help/get-started/explore-the-web-ui.md)
 + Messaggi e consegne {#messages-and-deliveries}
    + [Creare una consegna e-mail](/help/deliveries/create-an-email-delivery.md)
@@ -36,4 +36,4 @@ ht-degree: 85%
 + Registrazioni live di Experience League {#exl-live-recordings}
    + [Nuova interfaccia utente d’avanguardia di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=it){target="_blank"}
 + [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"}
-+ [Bash IA - Sblocco della potenza dell&#39;Assistente di IA nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente IA nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
