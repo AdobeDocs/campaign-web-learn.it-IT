@@ -5,10 +5,10 @@ user-guide-title: Interfaccia utente di Adobe Campaign Web
 user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche principali dell’interfaccia utente di Adobe Campaign Web.
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
-source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 97%
 
 ---
 
@@ -27,6 +27,8 @@ ht-degree: 100%
    + [Creare e migliorare i contenuti delle e-mail con l’Assistente ai contenuti](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Creare contenuti con l’Assistente IA in Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Creare una consegna direct mail](/help/design-the-delivery/create-a-direct-mail-delivery.md)
++ Gestione dei contenuti {#content-management}
+   + [Migliorare la distribuzione con contenuti dinamici](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Profili e pubblico {#profiles-and-audiences}
    + [Esplora i profili](/help/profiles-and-audiences/explore-profiles.md)
    + [Creare e gestire profili di test](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
