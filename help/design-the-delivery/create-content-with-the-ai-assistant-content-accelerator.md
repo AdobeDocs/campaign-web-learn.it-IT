@@ -1,6 +1,6 @@
 ---
-title: Creare contenuti con l’Assistente IA in Campaign - Content Accelerator
-description: 'Scopri come utilizzare l’Assistente IA in Campaign: Content Accelerator per generare contenuti in base al canale per campagne in tempo reale 1:1 e batch che risuonano con il pubblico target.'
+title: Creare contenuti con l’Assistente AI per la generazione di contenuti
+description: Scopri come utilizzare l’Assistente AI per la generazione di contenuti per generare contenuti in base al canale per campagne batch in tempo reale 1:1 che risuonano con il pubblico di destinazione.
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,20 +10,20 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
+source-git-commit: 5786cc852e17ec39c43480ccfd6051a2a8f3bd72
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 22%
 
 ---
 
+# Creare contenuti con l’Assistente AI per la generazione di contenuti
 
-# Creare contenuti con l’Assistente IA in Campaign - Content Accelerator
-
-Scopri come utilizzare l’Assistente IA in Campaign: Content Accelerator per generare contenuti in base al canale per campagne in tempo reale 1:1 e batch che risuonano con il pubblico target.
+Scopri come utilizzare l’Assistente AI per la generazione di contenuti per generare contenuti in base al canale per campagne batch in tempo reale 1:1 che risuonano con il pubblico di destinazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
 
 ## Risorse aggiuntive
 
-* Experience League LIVE: [Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente all’intelligenza artificiale nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [Sessione sull’IA - Sbloccare la potenza dell’Assistente IA nelle applicazioni Adobe Experience Platform e in Campaign](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
