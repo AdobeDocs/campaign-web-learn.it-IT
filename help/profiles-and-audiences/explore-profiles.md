@@ -22,4 +22,4 @@ Scopri come accedere, gestire ed esplorare i profili tramite l’interfaccia ute
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
+Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=it)

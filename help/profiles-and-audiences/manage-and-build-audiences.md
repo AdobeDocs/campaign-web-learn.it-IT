@@ -22,4 +22,4 @@ Scopri come creare e gestire i tipi di pubblico, come selezionare i tipi di pubb
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=it)
