@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Scopri come accedere, gestire ed esplorare i profili tramite l’interfaccia utente di Campaign Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448372/?learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=it)

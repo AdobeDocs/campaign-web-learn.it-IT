@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come visualizzare in anteprima il contenuto e la personalizzazione dei messaggi e-mail, inviare cosegne di test (bozze) a destinatari o abbonati specifici per la verifica e la convalida e verificare il rendering delle e-mail nei client desktop, mobili e basati su web più diffusi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450345/?learn=on&captions=ita)

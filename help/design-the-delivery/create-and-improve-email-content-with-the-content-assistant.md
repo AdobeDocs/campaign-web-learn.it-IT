@@ -27,6 +27,6 @@ Scopri come utilizzare l’assistente ai contenuti basato sull’intelligenza ar
 >
 > Questa funzionalità è attualmente disponibile in versione Alpha ed è soggetta a modifiche senza preavviso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452081/?learn=on&captions=ita)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
