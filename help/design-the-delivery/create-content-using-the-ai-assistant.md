@@ -22,7 +22,7 @@ ht-degree: 20%
 
 Scopri come utilizzare Adobe AI Assistant Content Accelerator per generare e personalizzare rapidamente le e-mail di marketing, inclusi gli oggetti, il testo del corpo e le immagini, integrando al contempo le risorse approvate dal marchio per coerenza e conformità.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463772/?learn=on&enablevpops&captions=ita)
 
 ## Risorse aggiuntive
 
