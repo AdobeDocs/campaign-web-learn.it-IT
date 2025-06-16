@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Scopri come utilizzare l’acceleratore di contenuti dell’Assistente IA di Adobe per generare e personalizzare rapidamente le e-mail di marketing, inclusi le righe oggetto, il testo del corpo e le immagini, integrando al contempo le risorse approvate dal brand per coerenza e conformità.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463772/?learn=on&enablevpops&captions=ita)
 
 ## Risorse aggiuntive
 
