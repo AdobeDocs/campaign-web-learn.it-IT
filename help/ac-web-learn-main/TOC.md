@@ -6,9 +6,9 @@ user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche 
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
 source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -29,13 +29,13 @@ ht-degree: 82%
 + Gestione dei contenuti {#content-management}
    + [Migliorare una consegna con contenuti dinamici](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Profili e tipi di pubblico {#profiles-and-audiences}
-   + [Esplora i profili](/help/profiles-and-audiences/explore-profiles.md)
+   + [Esplorare i profili](/help/profiles-and-audiences/explore-profiles.md)
    + [Creare e gestire profili di test](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Gestire e creare tipi di pubblico](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Creare un pubblico con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flussi di lavoro {#workflows}
    + [Creare un flusso di lavoro di targeting](/help/workflows/create-a-targeting-workflow.md)
-+ Registrazioni Experience League Live {#exl-live-recordings}
-   + [Miglioramento della nuova interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=it){target="_blank"}
++ Registrazioni live di Experience League {#exl-live-recordings}
+   + [Nuova interfaccia utente d’avanguardia di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=it){target="_blank"}
 + [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"}
-+ [Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente IA nelle applicazioni e nelle campagne Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente IA nelle applicazioni e nelle campagne di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
