@@ -5,10 +5,10 @@ user-guide-title: Interfaccia utente di Adobe Campaign Web
 user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche principali dell’interfaccia utente di Adobe Campaign Web.
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
-source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: ht
-source-wordcount: '157'
-ht-degree: 100%
+source-git-commit: b256cae07b17e5ca318ac2985116f63fbd6e467c
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 96%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
    + [Creare un pubblico con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flussi di lavoro {#workflows}
    + [Creare un flusso di lavoro di targeting](/help/workflows/create-a-targeting-workflow.md)
+   + [Configurare l’attività del codice Java script](/help/workflows/configure-java-script-code-activity.md)
 + Registrazioni live di Experience League {#exl-live-recordings}
    + [Nuova interfaccia utente d’avanguardia di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=it){target="_blank"}
 + [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"}
