@@ -1,23 +1,25 @@
 ---
 title: Tutorial sull’interfaccia utente di Adobe Campaign Web
-description: Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente di Adobe Campaign Web.
+description: Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel, un ambiente per l’orchestrazione visiva delle campagne, una gestione delle interazioni in tempo reale e un’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente di Adobe Campaign Web.
 feature: Overview
 role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
+source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
+workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
 # Tutorial sull’interfaccia utente di Adobe Campaign Web
 
-Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial su funzioni e caratteristiche dell’interfaccia utente di Adobe Campaign Web. Nuovi video vengono aggiunti regolarmente.
+Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel, un ambiente per l’orchestrazione visiva delle campagne, una gestione delle interazioni in tempo reale e un’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente di Adobe Campaign Web.
 
-La personalizzazione della piattaforma Campaign in base alle esigenze aziendali e di dati e la connessione ad altri sistemi sono gestite nella console client di Campaign. Di conseguenza, l’accesso, la creazione e la gestione di alcune impostazioni e funzionalità avviene solo dalla console client di Campaign. Consulta la [Guida alla console client e a Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=it){target="_blank"} per una panoramica delle impostazioni e delle funzioni che verranno introdotte in futuro.
+Prova la [demo cliccabile](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
+
+La personalizzazione della piattaforma Campaign in base alle esigenze aziendali e di dati e la connessione ad altri sistemi sono gestite nella console client di Campaign. Di conseguenza, l’accesso, la creazione e la gestione di alcune impostazioni e funzionalità avviene solo dalla console client di Campaign. Consulta la [Guida di Campaign Web e Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=it){target="_blank"} per una panoramica delle impostazioni e delle funzionalità che verranno introdotte in futuro.
 
 >[!INFO]
 > 
@@ -27,7 +29,7 @@ La personalizzazione della piattaforma Campaign in base alle esigenze aziendali 
 > Questi tutorial non sono quelli che stai cercando?
 > Consulta i
 > 
-> * [tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"} per informazioni sulla console di Campaign
+> * [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"} per informazioni sulla console di Campaign
 > * [Documentazione di Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=it){target="_blank"} per ulteriori informazioni sull’interfaccia utente di Campaign Web.
 
 <div id="recs-overview-body-1"></div>
