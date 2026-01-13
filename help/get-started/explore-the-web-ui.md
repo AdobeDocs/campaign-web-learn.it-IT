@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come accedere e navigare nell’interfaccia utente di Campaign Web e come personalizzare gli elenchi di inventario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453430/?captions=ita&learn=on)
 
 Consulta [Introduzione ad Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=it) per ulteriori informazioni su come navigare nell’interfaccia utente di Campaign Web v8.
