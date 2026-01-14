@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Scopri come navigare in E-mail Designer. Scopri come strutturare e progettare un’e-mail da zero, come personalizzarla e testarla.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453573/?captions=ita&learn=on)
 
 >[!NOTE]
 >

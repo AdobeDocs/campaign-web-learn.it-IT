@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come creare un’e-mail caricando HTML, come renderla compatibile con E-mail designer e come convertirla in un modello.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447040/?captions=ita&learn=on)
