@@ -22,6 +22,6 @@ Scopri come utilizzare in modo efficace l’attività del codice JavaScript in A
 
 Questo tutorial descrive sia le modalità di scripting semplici che quelle avanzate.Illustra le impostazioni di esecuzione e la gestione degli errori.Visualizzerai esempi reali, come il targeting dei profili VIP, la trasformazione dei dati e l’attivazione di operazioni condizionali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464927/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/campaign-web/v8/wf/design-workflows/javascript-code).

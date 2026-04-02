@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come creare e gestire i tipi di pubblico, come selezionarli per una consegna e come definire gruppi di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453210/?captions=ita&learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=it)
