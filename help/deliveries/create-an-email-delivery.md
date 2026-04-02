@@ -10,8 +10,8 @@ last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14394
 exl-id: 94115929-c74f-4697-b2af-d57bcfc2735d
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
-source-wordcount: '61'
+workflow-type: ht
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come creare una consegna e-mail da zero, definire il pubblico, progettare il contenuto, simulare l’anteprima e inviare una bozza.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454013/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=it)

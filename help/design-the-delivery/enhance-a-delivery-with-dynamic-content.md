@@ -11,7 +11,7 @@ jira: KT-14455
 exl-id: f7849529-4c7c-41a3-9124-31190ddc80ea
 source-git-commit: f056496b7a5435a4e258ec93153c97b3abb08478
 workflow-type: ht
-source-wordcount: '67'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---

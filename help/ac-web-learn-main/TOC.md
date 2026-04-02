@@ -6,9 +6,9 @@ user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche 
 breadcrumb-title: 'Interfaccia utente Web: tutorial'
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 95%
    + [Creare un pubblico con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flussi di lavoro {#workflows}
    + [Creare un flusso di lavoro di targeting](/help/workflows/create-a-targeting-workflow.md)
-   + [Configurare l’attività del codice Java script](/help/workflows/configure-java-script-code-activity.md)
+   + [Configurare l’attività del codice JavaScript](/help/workflows/configure-java-script-code-activity.md)
 + Registrazioni live di Experience League {#exl-live-recordings}
    + [Nuova interfaccia utente d’avanguardia di Adobe Campaign Web](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=it){target="_blank"}
 + [Tutorial sulla console client di Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=it){target="_blank"}
-+ [Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente IA nelle applicazioni e nelle campagne di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Bash sull’IA: sbloccare la potenza dell’Assistente IA nelle applicazioni e nelle campagne di Adobe Experience Platform](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
