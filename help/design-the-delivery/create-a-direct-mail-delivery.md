@@ -8,9 +8,8 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
-hidefromtoc: false
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
-source-git-commit: e3b149963f2fd306669facbc6f90200113ebf169
+source-git-commit: e7356ef028111687eeebb8a1d7e1e0f58de37e05
 workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
@@ -23,6 +22,6 @@ Direct mail è un canale offline che consente di creare file per consegnare in m
 
 Scopri come creare una consegna direct mail nell’interfaccia utente web di Adobe Campaign v8.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451791/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto Interfaccia utente Campaign Web](https://experienceleague.adobe.com/it/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).
