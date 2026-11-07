@@ -38,6 +38,6 @@ ht-degree: 100%
 
 Scopri come rendere dinamico il contenuto dei messaggi utilizzando l’editor di espressioni per personalizzarlo o aggiungere contenuto condizionale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505243/?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni su [come rendere dinamico il contenuto](https://experienceleague.adobe.com/it/docs/campaign-web/v8/content/dynamic-content/gs-personalization), consulta la documentazione del prodotto.
